@@ -1,0 +1,146 @@
+
+body{
+  margin: 0 0 0 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+.hero{
+  line-height: 2;
+}
+.skill-row{
+  margin: 100px auto;
+  width: 50%;
+  text-align: left;
+
+}
+.iam{
+  padding-top: 10px;
+  width: 30%;
+  margin: 0 auto;
+}
+p{
+  line-height: 2;
+}
+h1{
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  font-size: 5.625rem;;
+}
+h2{
+  font-size: 2.5rem;
+    color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  color: #11999E;
+}
+a{
+  color: #11999E;
+  padding: 0 20px;
+    font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.programmer{
+  font-weight: normal;
+}
+.topclass{
+  padding-top: 200px;
+  background-color: #EAF6F6;
+  position: relative;
+}
+.profile{
+  padding: 50px 0 0 0;
+}
+.cloud-bottom{
+  position: absolute;
+  left: 200px;
+}
+ .mountain{
+  padding-top: 0;
+}
+.cloud-top{
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+.hero{
+  position: relative;
+}
+
+/* .code-wrap{
+  clear: left;
+}
+.chilli-wrap{
+  clear: right;
+} */
+
+.code-image{
+  width: 25%;
+  height: auto;
+  float: left;
+    border-radius: 100%;
+    margin-right: 30px;
+}
+.chillies{
+  width: 25%;
+  margin-right: 30px;
+  height: auto;
+  float: right;
+}
+.rahul-image{
+  height: 200px;
+  width: auto;
+}
+hr{
+  color: grey;
+  width: 10%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding-top: 50px;
+  padding-bottom: 30px;
+  margin-top: 50px;
+}
+.copyright{
+  padding-top: 20px;
+  color: #EAF6F6;
+}
+.btn {
+
+  font-family: 'Montserrat', sans-serif;
+
+  text-decoration: none;
+
+  font-size: 20px;
+
+  text-align: center;
+
+  vertical-align: middle;
+
+  cursor: pointer;
+
+  border-radius: 8px;
+
+  background: linear-gradient(#66BFBF, #11999E);
+
+  color: #ffffff;
+
+  padding: 10px 20px 10px 20px;
+
+}
+
+
+
+.btn:hover {
+
+  background: linear-gradient(#30e3cb,#2bc4ad)
+
+}
